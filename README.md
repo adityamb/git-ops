@@ -1,0 +1,2 @@
+# git-ops
+Github operations
